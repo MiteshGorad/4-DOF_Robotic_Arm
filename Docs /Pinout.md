@@ -26,10 +26,10 @@ This document contains the GPIO mapping and hardware connections for the **ESP32
 
 | Servo | Function | ESP32 GPIO |
 |--------|----------|-----------:|
-| Servo 1 | Base Rotation | GPIO XX |
-| Servo 2 | Shoulder | GPIO XX |
-| Servo 3 | Elbow | GPIO XX |
-| Servo 4 | Gripper | GPIO XX |
+| Servo 1 | Base Rotation | GPIO 13|
+| Servo 2 | Shoulder | GPIO 12 |
+| Servo 3 | Elbow | GPIO 14 |
+| Servo 4 | Gripper | GPIO 27 |
 
 ---
 
@@ -37,10 +37,10 @@ This document contains the GPIO mapping and hardware connections for the **ESP32
 
 | Potentiometer | Controls | ESP32 ADC GPIO |
 |---------------|----------|---------------:|
-| Pot 1 | Base Rotation | GPIO XX |
-| Pot 2 | Shoulder | GPIO XX |
-| Pot 3 | Elbow | GPIO XX |
-| Pot 4 | Gripper | GPIO XX |
+| Pot 1 | Base Rotation | GPIO 34 |
+| Pot 2 | Shoulder | GPIO 35 |
+| Pot 3 | Elbow | GPIO 32 |
+| Pot 4 | Gripper | GPIO 33 |
 
 ---
 
